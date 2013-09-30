@@ -1,0 +1,8 @@
+Import the suggestion.sql file into your website DB
+Place the suggestion folder into .../application/modules/
+
+Add it as a menu link from admin panel
+
+Credits: 
+Nirelz - Main code
+Jesper - Helping me out here and there

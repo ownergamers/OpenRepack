@@ -1,0 +1,14 @@
+{
+	"name": "Suggestion",
+	"description": "You can type in suggestions and view them",
+	"author": {
+		"name": "Nirelz",
+		"website": "http://cold-storm.com"
+	},
+
+	"admin": {
+		
+	},
+
+	"enabled":true
+}

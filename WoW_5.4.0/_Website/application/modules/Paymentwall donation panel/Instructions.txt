@@ -1,0 +1,11 @@
+Please put the "donate_wall" folder into your /application/modules/ folder in FusionCMS.
+
+The configuration can be done by editing the module config via the admin panel, or by manually editing the /donate_wall/config/donate.php config.
+
+Go to paymentwall.com and create an application. Fill out the details as asked for. Pick for instance, the "Paymentwall Multi" widget. The default "widget code" for this is "p1_1" (you will need to enter this in the config for this module).
+
+On your PaymentWall application, find the pingback section, and enter the following as pingback URL:
+
+http://YOURSITE.COM/donate_wall/pingback/
+
+If you run into any problems, please make a ticket at https://raxezdev.zendesk.com/ and be sure to specify that you need help about the Paymentwall module by Jesper, to make sure I'm the one that responds :-)
